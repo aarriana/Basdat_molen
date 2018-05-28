@@ -1,0 +1,7 @@
+# Android-Login-Register-MySQL
+
+##ettings Database ##
+* Import molen_login.sql to your database
+* Copy molen_login folder ke htdoct XAMPP
+* Open koneksi.php file dan atur username dan password sesuai phpmyadmin mu
+* Import Molen_login to Android Studio
